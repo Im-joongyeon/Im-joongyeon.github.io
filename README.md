@@ -1,0 +1,2 @@
+# gooltong.github.io
+blog
