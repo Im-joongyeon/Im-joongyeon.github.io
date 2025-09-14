@@ -18,7 +18,7 @@
 ## Explorer팀에서 새로운 시작
 
 * [Aptos의 Netflow 개발기](explorer/aptos-netflow.md)
-* [커맨더 무중단 On/Off 개발기](explorer/on-off.md)
+* [커맨더 무중단 On/Off 처리](explorer/on-off.md)
 * [신규 익스플로러를 맡다 - Humanity 메인넷](explorer/humanity.md)
 
 ## O2 팀에서의 과제
