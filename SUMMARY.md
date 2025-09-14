@@ -1,6 +1,6 @@
 # Table of contents
 
-* [I'm 딸깎의 이직 할 때 만든 블로그](README.md)
+* [I'm\_딸깎 : 하고 싶다](README.md)
 
 ## DBT와 Airflow 도입기
 
@@ -17,4 +17,10 @@
 
 ## Explorer팀에서 새로운 시작
 
-* [새로운 파이프라인](explorer/undefined.md)
+* [Aptos의 Netflow 개발기](explorer/aptos-netflow.md)
+* [커맨더 무중단 On/Off 개발기](explorer/on-off.md)
+* [신규 익스플로러를 맡다 - Humanity 메인넷](explorer/humanity.md)
+
+## O2 팀에서의 과제
+
+* [10배더 빠른 프로세서 만들기](o2/10.md)
