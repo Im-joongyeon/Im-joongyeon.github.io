@@ -15,11 +15,11 @@
 * [2. 어떻게 사용했는가](spark3-+-pojo/2..md)
 * [3. 결론 및 후기](spark3-+-pojo/3..md)
 
-## Explorer팀에서 새로운 시작
+## 서비스 API 도전
 
-* [Aptos의 Netflow 개발기](explorer/aptos-netflow.md)
-* [무중단 수집기 On/Off 처리 기능 추가](explorer/on-off.md)
-* [신규 익스플로러를 맡다 - Humanity 메인넷](explorer/humanity.md)
+* [Aptos의 Netflow 개발기](api/aptos-netflow.md)
+* [무중단 수집기 On/Off 처리 기능 추가](api/on-off.md)
+* [익스플로러 개발 후기](api/undefined.md)
 
 ## O2 팀에서의 과제
 
