@@ -17,7 +17,6 @@
 
 ## 서비스 API 도전
 
-* [Aptos의 Netflow 개발기](api/aptos-netflow.md)
 * [무중단 수집기 On/Off 처리 기능 추가](api/on-off.md)
 * [익스플로러 개발 후기](api/undefined.md)
 
